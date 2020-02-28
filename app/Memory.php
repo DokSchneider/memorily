@@ -8,4 +8,9 @@ class Memory extends Model
 {
     //
     protected $fillable = ['title', 'subtitle', 'content', 'img', 'color'];
+
+    public function added()
+    {
+        return $this->created_at->diffForHumans();
+    }
 }

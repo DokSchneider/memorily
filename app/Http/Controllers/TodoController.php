@@ -38,10 +38,7 @@ class TodoController extends Controller
     public function toggle($id)
     {
         //
-        $todo = Todo::findOrFail($id);
-        $todo->completed = !$todo->completed;
-        $todo->save();
-
+        Todo::findOrFail($id)->toggle($id);
         return redirect('todo');
     }
 }

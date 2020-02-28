@@ -132,7 +132,7 @@
                 <p class="card-text">{{$memory->content}}</p>
 
                 <a class="card-link" href="{{route('edit', compact('memory'))}}">edit</a>
-                <p>posted {{$memory->created_at->diffForHumans()}}</p>
+                <p>posted {{$memory->added()}}</p>
 
 
             </div>
