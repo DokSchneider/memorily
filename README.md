@@ -1,10 +1,12 @@
-<p align="center"><img src="https://www.webmasters-fernakademie.de/images/wfa_img/logo-wfa.png?1571290125" width="400"></p>
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><a href="https://www.webmasters-fernakademie.de"><img src="https://www.webmasters-fernakademie.de/images/wfa_img/logo-wfa.png?1571290125" width="400"></a></p>
+<p align="center"><a href="https://laravel.com/"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
+    </a>  
+    </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/cosnavel/memorily"><img src="https://www.codefactor.io/repository/github/cosnavel/memorily/badge" alt="CodeFactor" /></a>
 </p>
 <p align="center">
-Müsterlösung der Einsedeaufgabe - Webmaster Akademie Class "Einstieg in Laravel 7"
+Müsterlösung der Einsendeaufgabe - Webmaster Akademie Class "Einstieg in Laravel 7"
 </p>
 
 ## About memorily
