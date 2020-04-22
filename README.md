@@ -17,7 +17,7 @@ Müsterlösung der Einsendeaufgabe - Webmaster Akademie Class "Einstieg in Larav
 
 1. `composer install`
 2. *.env* erstellen (`cp .env.example .env`)
-3. Sqlite Datenbank erstellen `touch databse/database.sqlite`
+3. Sqlite Datenbank erstellen `touch database/database.sqlite`
 4. *DB_DATABASE* aus *.env* entfernen
 5. `DB_CONNECION=sqlite` in *.env*
 6. `php artisan key:generate`
